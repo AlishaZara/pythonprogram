@@ -1,4 +1,4 @@
-a=''
+a='hello'
 vow_count=0
 con_count=0
 for var in a:
@@ -7,4 +7,4 @@ for var in a:
             vow_count+=1
         else:
             con_count+=1
-            print(vow_count,con_count)
+print(vow_count,con_count)
