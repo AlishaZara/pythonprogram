@@ -1,6 +1,6 @@
 class Car:
     name="car"
-    def __init__(self,name,milege,price,color)
+    def __init__(self,name,milege,price,color):
         self.name=name
         self.milege=milege
         self.price=price

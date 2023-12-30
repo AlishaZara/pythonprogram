@@ -18,5 +18,3 @@ class cal(add,sub2):
     pass
 
 obj=cal()
-obj.add(3,5,6)
-obj.sub(2,5) 
