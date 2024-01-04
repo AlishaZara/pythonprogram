@@ -12,3 +12,10 @@ for i in range(rows):
                 print(' ' ,end='')
     print()
     
+#no of rows:- 5
+# no of columns:- 5
+# +++++
+# +   +
+# +   +
+# +   +
+# +++++
